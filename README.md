@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ekaterina Mikheeva
+- 👀 I’m interested in mobile applications
+- 🌱 Ping me in Slack in case of any questions
